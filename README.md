@@ -32,25 +32,31 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://imgur.com/qZTiTaH.png"<
+  /p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure roles Admin panel > Agents > Roles > name it Supreme Admin 
+  Configure Departments Admin panel > Agents > Departments > name it System Administrators 
+  Configure Teams Admin Panel > Agents > Teams Level I support and Level II support 
+  Allow anyone to create tickets Admin Panel > Settings > User Settings > Uncheck require registration and login to create tickets 
+<br />
+
+<p>
+<img src="https://i.imgur.com/7L9bz91.png"< 
+  /p>
+<p>
+Configure Agents 
+  Admin Panel > Agents > Add new > 
+  Configure Users, Agent Panel > Users > Add New 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://i.imgur.com/agjon12.png"<
+  /p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure SLA Admin panel > Manage > SLA
+  Configure Help Topics 
+  Admin Panel > Manage > Help Topics 
 </p>
 <br />
